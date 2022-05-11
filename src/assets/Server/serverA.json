@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "btitle": "Tüskevár",
+      "bcatag": "Dráma",
+      "bstatus": "Régi",
+      "bcopies": 2,
+      "bisbn": "KSD15L12",
+      "byear": 1978,
+      "bauthor": "Fekete I",
+      "bpub": "",
+      "pubname": "Europa",
+      "bdate": "2022-03-24",
+      "id": 3
+    },
+    {
+      "btitle": "Előttem Me",
+      "bcatag": "Dráma",
+      "bstatus": "Új",
+      "bcopies": 10,
+      "bisbn": "KSD15L14",
+      "byear": 2003,
+      "bauthor": "Béla Béla",
+      "bpub": "DM ",
+      "pubname": "Kovács B",
+      "bdate": "2020-03-02",
+      "id": 4
+    },
+    {
+      "btitle": "ValamiAmerika",
+      "bcatag": "Dráma",
+      "bstatus": "Új",
+      "bcopies": 1,
+      "bisbn": "LKD457",
+      "byear": 2009,
+      "bauthor": "Kinu Kam",
+      "bpub": "Next Day",
+      "pubname": "Neil",
+      "bdate": "2020-03-12",
+      "id": 5
+    },
+    {
+      "btitle": "No One Near Me",
+      "bcatag": "Romantikus",
+      "bstatus": "Sérült",
+      "bcopies": 16,
+      "bisbn": "YDS787",
+      "byear": 1997,
+      "bauthor": "Robert Carlo",
+      "bpub": "PDM PB",
+      "pubname": "Jeff Vis",
+      "bdate": "2020-03-28",
+      "id": 6
+    },
+    {
+      "btitle": "Hősök",
+      "bcatag": "Romantikus",
+      "bstatus": "Régi",
+      "bcopies": 36,
+      "bisbn": "TKM45MK",
+      "byear": 2016,
+      "bauthor": "Kovács P",
+      "bpub": "CD ",
+      "pubname": "CD Kovács",
+      "bdate": "2020-03-12",
+      "id": 7
+    },
+    {
+      "btitle": "Mindenki Kalács",
+      "bcatag": "Dráma",
+      "bstatus": "Új",
+      "bcopies": 6,
+      "bisbn": "TBKER12",
+      "byear": 2019,
+      "bauthor": "Melvin",
+      "bpub": " Pub",
+      "pubname": " Tesók",
+      "bdate": "2020-04-16",
+      "id": 8
+    },
+    {
+      "btitle": "Új Kalács",
+      "bcatag": "Szatírikus",
+      "bstatus": "Új",
+      "bcopies": 13,
+      "bisbn": "THKER65",
+      "byear": 2020,
+      "bauthor": "Velya mária",
+      "bpub": " Tesók",
+      "pubname": "Argg",
+      "bdate": "2022-04-08",
+      "id": 9
+    },
+    {
+      "btitle": "Csenge ",
+      "bcatag": "Dráma",
+      "bstatus": "Új",
+      "bcopies": 41,
+      "bisbn": "CH26KER2",
+      "byear": 2016,
+      "bauthor": "Csenge",
+      "bpub": " Tesók",
+      "pubname": "Csenge",
+      "bdate": "2022-04-14",
+      "id": 10
+    }
+  ],
+  "members": [
+    {
+      "uname": "Andras",
+      "uadmid": 23655,
+      "umail": "alma@gmail.com",
+      "udep": "Hr",
+      "upassword": "88888888",
+      "ustatus": 0,
+      "urecstatus": 0,
+      "urecj": "[]",
+      "ureqj": "[]",
+      "id": 3
+    },
+    {
+      "uname": "Bela",
+      "uadmid": 23652,
+      "umail": "aaa@aaa",
+      "udep": "ME",
+      "upassword": "88888888",
+      "ustatus": 0,
+      "urecstatus": 1,
+      "urecj": "[{\"btitle\":\"ValamiAmerika\",\"bcatag\":\"Dráma\",\"bstatus\":\"Új\",\"bcopies\":2,\"bisbn\":\"LKD457\",\"byear\":2009,\"bauthor\":\"Kinu Kam\",\"bpub\":\"Next Day\",\"pubname\":\"Neil\",\"bdate\":\"2020-03-12\",\"id\":5}]",
+      "ureqj": "[]",
+      "id": 4
+    },
+    {
+      "uname": "gergo",
+      "uadmid": 232123,
+      "umail": "anu@a",
+      "udep": "HR",
+      "upassword": "88888888",
+      "ustatus": 1,
+      "urecstatus": 1,
+      "urecj": "[{\"btitle\":\"Mindenki Kalács\",\"bcatag\":\"Dráma\",\"bstatus\":\"Új\",\"bcopies\":7,\"bisbn\":\"TBKER12\",\"byear\":2019,\"bauthor\":\"Melvin\",\"bpub\":\" Pub\",\"pubname\":\" Tesók\",\"bdate\":\"2020-04-16\",\"id\":8}]",
+      "ureqj": "[{\"btitle\":\"Előttem Me\",\"bcatag\":\"Dráma\",\"bstatus\":\"Új\",\"bcopies\":12,\"bisbn\":\"KSD15L14\",\"byear\":2003,\"bauthor\":\"Béla Béla\",\"bpub\":\"DM \",\"pubname\":\"Kovács B\",\"bdate\":\"2020-03-02\",\"id\":4}]",
+      "id": 5
+    },
+    {
+      "uname": "imre",
+      "uadmid": 23654,
+      "umail": "nithi@nr.hu",
+      "udep": "IT",
+      "upassword": "88888888",
+      "ustatus": 1,
+      "urecstatus": 1,
+      "urecj": "[{\"btitle\":\"No One Near Me\",\"bcatag\":\"Romantikus\",\"bstatus\":\"Sérült\",\"bcopies\":17,\"bisbn\":\"YDS787\",\"byear\":1997,\"bauthor\":\"Robert Carlo\",\"bpub\":\"PDM PB\",\"pubname\":\"Jeff Vis\",\"bdate\":\"2020-03-28\",\"id\":6}]",
+      "ureqj": "[{\"btitle\":\"Előttem Me\",\"bcatag\":\"Dráma\",\"bstatus\":\"Új\",\"bcopies\":11,\"bisbn\":\"KSD15L14\",\"byear\":2003,\"bauthor\":\"Béla Béla\",\"bpub\":\"DM \",\"pubname\":\"Kovács B\",\"bdate\":\"2020-03-02\",\"id\":4},{\"btitle\":\"Uncle Bun\",\"bcatag\":\"Adventure\",\"bstatus\":\"Régi\",\"bcopies\":3,\"bisbn\":\"KSD15L12\",\"byear\":2014,\"bauthor\":\"Rajith Sir\",\"bpub\":\"Pada PB\",\"pubname\":\"Chicham Pd\",\"bdate\":\"2020-03-24\",\"id\":3}]",
+      "id": 6
+    },
+    {
+      "uname": "GezaBacsi",
+      "uadmid": 20366,
+      "umail": "ergstrgsthtrshd@tfxh",
+      "udep": "IT",
+      "upassword": "88888888",
+      "ustatus": 0,
+      "urecstatus": 0,
+      "urecj": "[]",
+      "ureqj": "[]",
+      "id": 7
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "amail": "andras@gmail.com",
+      "apassword": "andras123",
+      "aname": "Andras"
+    },
+    {
+      "id": 2,
+      "amail": "tamas@gmail.com",
+      "apassword": "tamas123",
+      "aname": "Tamas"
+    }
+  ]
+}
